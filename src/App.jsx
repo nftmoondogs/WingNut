@@ -17,9 +17,9 @@ function App() {
       <header>
         <img src={logo} className="App-logo" alt="logo" />
         <div className='buttons'>
-          <a href='' className='icon'><FontAwesomeIcon icon={faTwitter} /></a>
-          <a href='' className='icon'><FontAwesomeIcon icon={faTelegram} /></a>
-          <a href=''>Buy on Pump.Fun</a>
+          <a href='https://x.com/wingnuttoken' className='icon'><FontAwesomeIcon icon={faTwitter} /></a>
+          <a href='https://t.me/wingnuttoken' className='icon'><FontAwesomeIcon icon={faTelegram} /></a>
+          <a href='https://pump.fun/board'>Buy on Pump.Fun</a>
         </div>
       </header>
       <main>
@@ -31,7 +31,7 @@ function App() {
             <p>if you think you can snipe $Wingnut, that’s the only shot you gonna get</p>
             <p>When someone asks you about Wingnut….’YES’</p>
             <div className='buttons'>
-              <a href=''>Buy on Pump.Fun</a>
+              <a href='https://pump.fun/board'>Buy on Pump.Fun</a>
             </div>
           </div>
         </div>
@@ -42,8 +42,8 @@ function App() {
             <p>do you wanna know why i put my hand in my pockets almost all the time. i got jeeters in my pockets, preventing them from reaching out to your funds</p>
             <p>What’s my favorite color?…..money 💰 !</p>
             <div className='buttons'>
-              <a href='' className='icon'><FontAwesomeIcon icon={faTwitter} /></a>
-              <a href='' className='icon'><FontAwesomeIcon icon={faTelegram} /></a>
+              <a href='https://x.com/wingnuttoken' className='icon'><FontAwesomeIcon icon={faTwitter} /></a>
+              <a href='https://t.me/wingnuttoken' className='icon'><FontAwesomeIcon icon={faTelegram} /></a>
             </div>
           </div>
           <img src={img2} alt='img2' />
